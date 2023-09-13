@@ -1,0 +1,20 @@
+.boEstilo{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(167, 255, 85);
+}
+h1{
+    font-size: 5vw;
+    padding-left: 35%;      
+    padding-right: 30%;  
+    padding-bottom: 5%;
+}
+.tabla{
+    font-size: 100%;
+    padding-left: 35%;
+    padding-right: 35%;
+}
+
+.btnObtn{    
+    font-size: 20px;
+}
